@@ -26,7 +26,7 @@ peki tüm turların ortalamasını alıp sektörlere böldüğümüzde yarışı
 ![image alt](https://i.ibb.co/JwG3LCrC/image.png)
 ![image alt](https://i.ibb.co/84DKtBxm/image.png)
 
-Leclerc 1. Sekötrde saniyenin on binde biri kadar önde yani Piastri oldukça yakın bir konumda.
+Leclerc 1. sektörde saniyenin on binde biri kadar önde yani Piastri oldukça yakın bir konumda.
 
 Piastri 2. sektörde çok büyük bir fark koymakta. Saniyenin on da biri gibi bir fark söz konusu. 3. sektörde ise saniyenin yüzde ikisi kadar bir farkla önde. 
 
