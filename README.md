@@ -9,7 +9,9 @@ Cidde cadde pistinde düzenlenen Suudi Arabistan GP yarışında; takımını da
 ## Kütüphaneler
 
 FastF1 : F1 verilerini edindiğim Kütüphaneler
+
 Pandas : Veri manipülasyonu yaptığım, verileri işlediğim Kütüphaneler
+
 Matplotlib: Grafik oluşturduğum Kütüphaneler
 
 ## Analizlerim
